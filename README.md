@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhir192311&label=Profile%20views&color=0e75b6&style=flat" alt="sudhir192311" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhir192311" alt="sudhir192311" /></a> </p>
 
 - 🌱 I’m currently learning data structure and algorithm **and looking for internship**
