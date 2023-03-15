@@ -11,11 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhir192311" alt="sudhir192311" /></a> </p>
 
-- 🌱 I’m currently learning data structure and algorithm
+- 🌱 I’m a Software Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudhir192311](https://github.com/sudhir192311)
-
-- 💬 Ask me about **only learning things**
 
 - 📫 How to reach me **sudhirswain120@gmail.com**
 
